@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-plugin-zeit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Adds Zeit UI colors to Tailwind.",
   "main": "index.js",
   "scripts": {},
