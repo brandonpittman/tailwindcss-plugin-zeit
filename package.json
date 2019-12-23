@@ -1,15 +1,16 @@
 {
   "name": "tailwindcss-plugin-zeit",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Adds Zeit UI colors to Tailwind.",
   "main": "index.js",
   "scripts": {},
   "files": [
-    "index.js"
+    "index.js",
+    "README.md"
   ],
   "keywords": [
     "tailwindcss",
-    "zei"
+    "zeit"
   ],
   "author": "Brandon Pittman",
   "license": "MIT"
