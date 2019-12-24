@@ -28,3 +28,7 @@ colors: {
   "cyan": "#79FFE1"
 }
 ```
+
+Due to how Tailwind works, including colors in a system-wide way like needs to
+be done, this plugin requires features not in the latest stable Tailwind
+release. As of Dec 24, 2019, it's necessary to use tailwindcss@canary. 
