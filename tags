@@ -4,27 +4,5 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-let.accent-1	index.js	/^    "accent-1": "#FAFAFA",$/;"	p
-let.accent-2	index.js	/^    "accent-2": "#EAEAEA",$/;"	p
-let.accent-3	index.js	/^    "accent-3": "#999",$/;"	p
-let.accent-4	index.js	/^    "accent-4": "#888",$/;"	p
-let.accent-5	index.js	/^    "accent-5": "#666",$/;"	p
-let.accent-6	index.js	/^    "accent-6": "#444",$/;"	p
-let.accent-7	index.js	/^    "accent-7": "#333",$/;"	p
-let.accent-8	index.js	/^    "accent-8": "#111",$/;"	p
-let.alert	index.js	/^    "alert": "#FF0080",$/;"	p
-let.cyan	index.js	/^    "cyan": "#79FFE1",$/;"	p
-let.error	index.js	/^    "error": "#E00",$/;"	p
-let.error-dark	index.js	/^    "error-dark": "#C00",$/;"	p
-let.error-light	index.js	/^    "error-light": "#FF1A1A",$/;"	p
-let.purple	index.js	/^    "purple": "#F81CE5",$/;"	p
-let.success	index.js	/^    "success": "#0070F3",$/;"	p
-let.success-dark	index.js	/^    "success-dark": "#0366D6",$/;"	p
-let.success-light	index.js	/^    "success-light": "#3291FF",$/;"	p
-let.violet	index.js	/^    "violet": "#7928CA",$/;"	p
-let.warning	index.js	/^    "warning": "#F5A623",$/;"	p
-let.warning-dark	index.js	/^    "warning-dark": "#F49B0B",$/;"	p
-let.warning-light	index.js	/^    "warning-light": "#F7B955",$/;"	p
-module.exports	index.js	/^module.exports = function ({addUtilities}) {$/;"	f
+module.exports.config	index.js	/^  config: {$/;"	p
 module.exports.theme	tailwind.config.js	/^  theme: {$/;"	p
-utilities.backgroundColor	index.js	/^      backgroundColor: value$/;"	p
