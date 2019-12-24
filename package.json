@@ -15,7 +15,6 @@
   "author": "Brandon Pittman",
   "license": "MIT",
   "dependencies": {
-    "postcss": "^7.0.25",
     "tailwindcss": "^1.2.0-canary.2"
   }
 }
